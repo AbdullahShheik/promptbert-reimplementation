@@ -72,6 +72,8 @@ A ready-to-run Kaggle notebook is provided in the `Notebooks/` folder.
 - Downloading SentEval data
 - Running all evaluations
 
+The attempted improvement can be run by directly uploading the given notebook and running it as well.
+
 ## Evidence
 
 The `Notebooks/` folder contains the Kaggle notebook with full output logs of all evaluation runs. Results include Spearman correlation scores on all seven STS benchmarks for all four pretrained model variants, the unfine-tuned bert-prompt experiment, and the static embedding bias removal experiments. The screen shots are also provided inthe Evidences folder.
