@@ -63,7 +63,7 @@ A ready-to-run Kaggle notebook is provided in the `Notebooks/` folder.
 
 **Step 1:** Upload `Notebooks/promptbert-reproduction.ipynb` to Kaggle or open it directly.
 
-**Step 2:** Enable GPU — go to Notebook Settings → Accelerator → GPU T4.
+**Step 2:** Go to Notebook Settings → Accelerator → GPU T4.
 
 **Step 3:** The notebook handles all setup automatically including:
 - Cloning this repository
@@ -74,7 +74,7 @@ A ready-to-run Kaggle notebook is provided in the `Notebooks/` folder.
 
 ## Evidence
 
-The `Notebooks/` folder contains the Kaggle notebook with full output logs of all evaluation runs. Results include Spearman correlation scores on all seven STS benchmarks for all four pretrained model variants, the unfine-tuned bert-prompt experiment, and the static embedding bias removal experiments.
+The `Notebooks/` folder contains the Kaggle notebook with full output logs of all evaluation runs. Results include Spearman correlation scores on all seven STS benchmarks for all four pretrained model variants, the unfine-tuned bert-prompt experiment, and the static embedding bias removal experiments. The screen shots are also provided inthe Evidences folder.
 
 ## Citation
 
