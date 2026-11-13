@@ -6,3 +6,4 @@ data/nli_for_simcse.csv
 __pycache__/
 *.pyc
 result/
+.vscode/
