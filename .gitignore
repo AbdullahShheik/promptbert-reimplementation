@@ -1,9 +1,11 @@
 promptbert-env/
 data/wiki1m_for_simcse.txt
 data/nli_for_simcse.csv
+SentEval/data/
 *.bin
 *.pt
 __pycache__/
 *.pyc
 result/
 .vscode/
+test-env/
